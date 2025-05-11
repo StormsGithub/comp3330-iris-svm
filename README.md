@@ -8,7 +8,7 @@ To execute the script, please ensure that *iris.data* is in the same directory a
 * matplotlib (3.10.3)
 * PyQt6 (6.9.0)
 
-Created using Python 3.13.3 in the PyCharm 2025.1.1 IDE.
+Created using Python 3.13.3 in the PyCharm 2025.1.1 IDE. All dependencies can be installed via pip, or the package manager in PyCharm.
 
 
 ### Notes
