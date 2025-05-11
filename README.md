@@ -1,1 +1,1 @@
-# comp3330-iris-svm
+# Code Submission for COMP3330 - Assessment 2
